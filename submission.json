@@ -1,4 +1,6 @@
 {
+  "prompt": "A vast, dark, organic neural network rendered as bioluminescent coral or tree roots spreading across black void. Each glowing node branches into many more connections than the filament that led to it — every point of arrival has fewer threads than the points it connects to. The network is asymmetric by design: following any strand always leads to a busier, more connected hub. The geometry is mathematically impossible — every local center is simultaneously peripheral to a larger center. Deep blacks, cold blue-white bioluminescent glow, hyper-detailed macro photography aesthetic, unsettling infinite depth, no text, no labels, no humans, no charts.",
+  "model": "Ideogram 2",
   "paradox": "The Friendship Paradox",
   "visual_logic": "An organic bioluminescent network where every node has fewer connections than its neighbors — following any path always leads to a more connected hub, making every point simultaneously central and peripheral."
 }
